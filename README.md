@@ -5,4 +5,5 @@ I am a current Rice University CS Student. I am currently interning @ Smartlink 
 Currently Working On: Taylor Swift Ranker
 
 Current Live Projects:
-Markov Chain (No Public Repo for Honor Code Reasons): http://rzg3.pythonanywhere.com/
+
+  - Markov Chain (No Public Repo for Honor Code Reasons): http://rzg3.pythonanywhere.com/
