@@ -6,5 +6,5 @@ Currently Working On: Taylor Swift Ranker, please check out this temporary deplo
 
 Other Live Projects:
 
-  - Markov Chain (No Public Repo for Honor Code Reasons): http://rzg3.pythonanywhere.com/
+  - Markov Chain Stock Predicter (No Public Repo for Honor Code Reasons): http://rzg3.pythonanywhere.com/
   - NASA Daily Image App: https://daily-nasa-image-project-hkhc97bgs-rzg3.vercel.app/
