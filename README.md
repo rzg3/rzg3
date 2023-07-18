@@ -2,7 +2,7 @@
 
 I am a current Rice University CS Student. I am currently interning @ Smartlink Group working under the Applications team. See my pinned Repos for current and past personal projects/hackathon submissions.
 
-Currently Working On: 
+Pubblic Projects Currently Working On: 
   - Taylor Swift Ranker, please check out this deployment: www.taylorswiftranker.com
   - Rice Course Scheduler (deployment coming soon!)
   - Carpool V3 for RiceApps OSA Program: https://github.com/rice-apps/Carpool-V3/tree/filterRideTypes
