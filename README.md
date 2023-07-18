@@ -2,7 +2,10 @@
 
 I am a current Rice University CS Student. I am currently interning @ Smartlink Group working under the Applications team. See my pinned Repos for current and past personal projects/hackathon submissions.
 
-Currently Working On: Taylor Swift Ranker, please check out this temporary deployment while I develop new features and plan for full release: http://ec2-34-227-59-57.compute-1.amazonaws.com:3000/
+Currently Working On: 
+  - Taylor Swift Ranker, please check out this deployment: www.taylorswiftranker.com
+  - Rice Course Scheduler (deployment coming soon!)
+  - Carpool V3 for RiceApps OSA Program
 
 Other Live Projects:
 
