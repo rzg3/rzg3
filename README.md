@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a current Rice University CS Student. I am currently interning @ Smartlink Group working under the Applications team. See my pinned Repos for current and past personal projects/hackathon submissions.
+I am a current Rice University CS Student. I am previously interned @ Smartlink Group working under the Applications team. See my pinned Repos for current and past personal projects/hackathon submissions.
 
 Public Projects Currently Working On: 
   - Taylor Swift Ranker, please check out this deployment: www.taylorswiftranker.com
