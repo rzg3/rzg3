@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I am a current Rice University CS Student. Last Summer I was a SWE intern at Garda Capital Partners on the Risk Development and Data Engineering teams. Previously was a SWE intern at Hagerty Consulting. Previously interned @ Smartlink Group working under the Applications team. See my Repos for current and past personal projects/hackathon submissions.
+I am a current Rice University CS Student. 
+  - Incoming QSD intern @ SIG
+  - Prev SWE intern @ Garda Capital Partners on the Risk Development and Data Engineering teams
+  - Prev SWE intern @ Hagerty Consulting
+  - Prev Intern @ Smartlink Group working under the Applications team. 
+
+See my Repos for current and past personal projects/hackathon submissions.
 
 Past Projects:
   - Taylor Swift Ranker: www.taylorswiftranker.com
