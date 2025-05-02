@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am a current Rice University CS Student. 
+  - Incoming QSD @ Susquehanna
   - Prev SWE intern @ Garda Capital Partners on the Risk Development and Data Engineering teams
   - Prev SWE intern @ Hagerty Consulting
   - Prev Intern @ Smartlink Group working under the Applications team. 
